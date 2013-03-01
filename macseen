@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "You may need to enter your password so TCPdump can connect to your adapater."
+sudo echo "Now with the fun bit!"
+sudo tcpdump -e -l -i en1 | ruby macseen.rb
