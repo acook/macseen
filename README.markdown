@@ -16,6 +16,13 @@ Just clone the repo, no biggie.
 git clone git://github.com/acook/macseen.git
 ```
 
+Install that bundle!
+
+```shell
+cd macseen
+bundle install
+```
+
 Hells yeah.
 
 Usage
