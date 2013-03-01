@@ -36,6 +36,13 @@ sqlite macseen.db
 
 Now you know whats up.
 
+That's it?
+==========
+
+Send bug reports, feature requests, death threats, marriage proposals, etc to [GitHub Issues](https://github.com/acook/macseen/issues).
+
+Or, you know, just [fork](https://github.com/acook/macseen/fork_select) the repo, make your changes and send me a pull request so I can take over the world.
+
 Author
 ======
 
