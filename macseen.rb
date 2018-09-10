@@ -26,7 +26,7 @@ def self.normal
 end
 
 while line = gets
-  timestamp, address, *_ = line.strip.split ' '
+  timestamp, address, _ = line.strip.split(' ', 3)
 
   time = Time.parse timestamp
 
